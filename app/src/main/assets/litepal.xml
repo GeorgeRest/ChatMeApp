@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+<dbname value="UserInfo"></dbname>
+
+<version value="11" ></version>
+
+<list>
+    <mapping class="com.george.chatmeapp.beans.UserInfo"></mapping>
+    <mapping class="com.george.chatmeapp.beans.MessageList"></mapping>
+    <mapping class="com.george.chatmeapp.beans.AddUserInfo"></mapping>
+
+</list>
+</litepal>

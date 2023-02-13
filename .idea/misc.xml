@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable-v24/bg_button_register.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable-v24/bg_stroke.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable-v24/photo2.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable-v24/register_button.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable-v24/retrieve_button.xml" value="0.174" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable-v24/text_color_cancel.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/back_bg.xml" value="0.1735" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/bg_button.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/bg_button_login.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/bg_button_register.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/bg_dialog_prompt.xml" value="0.226" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/bg_register_username.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/bg_stroke.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/bg_username.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/button_gray.xml" value="0.1455" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/chat_list_divider_line.xml" value="0.1455" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/finish_button.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/more_bg.xml" value="0.1735" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/more_vertical_bg.xml" value="0.1735" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo1.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo10.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo11.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo12.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo13.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo14.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo15.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo16.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo2.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo3.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo4.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo5.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo6.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo7.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo8.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo9.xml" value="0.147" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/photo_click.xml" value="0.1615" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/register_button.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/retrieve_button.xml" value="0.174" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/text_bg_press.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/text_color_cancel.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/text_color_change.xml" value="0.182" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/text_color_press.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/drawable/text_press.xml" value="0.205" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/activity_add.xml" value="0.33" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.23958333333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/activity_chatlist.xml" value="0.23958333333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/activity_modification.xml" value="0.30104166666666665" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/activity_retrieve_pw.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/activity_user_info.xml" value="0.22" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/add_layout.xml" value="0.26875" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/chat_item.xml" value="0.1" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/chat_layout.xml" value="0.2682291666666667" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/chat_list_item.xml" value="0.5" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/chatlist_layout.xml" value="0.2682291666666667" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/msg_item.xml" value="0.33" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/registe_layout.xml" value="0.2328125" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/register_layout.xml" value="0.25" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/layout/retrieve_pw_layout.xml" value="0.33" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatApp/app/src/main/res/menu/add_delete_item.xml" value="0.1" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/drawable/tab_address.xml" value="0.184" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/drawable/tab_message.xml" value="0.184" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/drawable/tab_setting.xml" value="0.184" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/drawable/tab_text.xml" value="0.184" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/activity_add.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/activity_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/activity_chatlist.xml" value="0.33" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/activity_modification.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/activity_user_info.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/chat_list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/chatlist_fragment.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/contact_fragment.xml" value="0.25" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/msg_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/register_layout.xml" value="0.2980072463768116" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/layout/retrieve_pw_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatAppTest/app/src/main/res/menu/add_delete_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/back_bg.xml" value="0.213" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/bg_arc.xml" value="0.213" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/bg_button_login.xml" value="0.213" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/bg_button_register.xml" value="0.213" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/bg_chatlist.xml" value="0.1815" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/bg_dialog_prompt.xml" value="0.213" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/bg_exit.xml" value="0.213" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/bg_name.xml" value="0.213" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/chat_list_divider_line.xml" value="0.285" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/more_vertical_bg.xml" value="0.285" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/photo13.xml" value="0.285" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/photo2.xml" value="0.285" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/photo7.xml" value="0.285" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/splash.xml" value="0.2105" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/tab_message.xml" value="0.279" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/tab_setting.xml" value="0.285" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/drawable/text_color_change.xml" value="0.285" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_add.xml" value="0.28489583333333335" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_chatlist.xml" value="0.25" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_modification.xml" value="0.28489583333333335" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_modify_photo.xml" value="0.2997007268063275" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_splash.xml" value="0.29157759726378796" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/activity_user_info.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/chat_list_item.xml" value="1.0" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/chatlist_fragment.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/contact_fragment.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/contact_item.xml" value="0.33" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/msg_item.xml" value="0.28489583333333335" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/register_layout.xml" value="0.25572519083969464" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/retrieve_pw_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/layout/self_fragment.xml" value="0.33" />
+        <entry key="..\:/IDEA/apps/AndroidStudio/AndroidStudio_Projects/ChatMeApp/app/src/main/res/menu/add_delete_item.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
